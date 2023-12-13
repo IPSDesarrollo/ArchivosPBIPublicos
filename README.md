@@ -1,2 +1,0 @@
-# ArchivosPBIPublicos
-Archivos .xlsx IPS
